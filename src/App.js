@@ -84,7 +84,6 @@ function App() {
   return (
     <div className={styles.App}>
       <header className={styles['App-header']}>
-        <h1>Kanban App</h1>
         <div className={styles.selectors}>
           <label htmlFor="viewSelect">Group by: </label>
           <select
